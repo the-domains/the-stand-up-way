@@ -1,0 +1,28 @@
+name: The Stand-Up Way
+favicon: null
+layout_spectrum: 0.3170964189339429
+typography_spectrum: 0.37301734276115894
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#f29200'
+    - '#266b7b'
+    - '#e9ba68'
+    - '#9abbc4'
+  brandStrength: 1
+  lightness: 0.7109484588727355
+  saturation: 0.5
+  rhythmicContrast: 0.3210403863340616
+purpose: []
