@@ -1,7 +1,8 @@
 name: The Stand-Up Way
 favicon: null
-layout_spectrum: 0.3170964189339429
-typography_spectrum: 0.37301734276115894
+layout_spectrum: 1
+typography_spectrum: 0.50168
+title: Stuff that matters
 cta:
   domain: null
   bucket: null
@@ -16,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.21631485992111266
-  lightness: 0.7109484588727355
-  saturation: 0.02124622673727572
-  rhythmicContrast: 0.3210403863340616
+    - '#ffffff'
+    - '#f29200'
+    - '#266b7b'
+    - '#e9ba68'
+    - '#9abbc4'
+  brandStrength: 0.6875
+  lightness: 0.6875
+  saturation: 0.625
+  rhythmicContrast: 1
 purpose: []
